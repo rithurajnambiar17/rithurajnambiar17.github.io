@@ -1,0 +1,60 @@
+*{
+    color:#fff !important;
+}
+
+body{
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-color: #090909;
+    overflow: hidden;
+}
+
+.container-fluid{
+    background-color: #090909;
+    position: relative;
+}
+
+.navbar{
+    padding: 0px;
+    border: 0px;
+}
+
+.nav-item{
+    color:#fff;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.geek-div{
+    float: left;
+    width: 50%;
+    position:fixed;
+    left: 1000px;
+    top: 170px
+}
+
+.geek{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+.static-text-r{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 50px;
+    padding-top:200px;
+    padding-left: 150px;
+}
+
+.typewrite{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 80px;
+    float: left;
+    padding-left: 150px;
+}
+
