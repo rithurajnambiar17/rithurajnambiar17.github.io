@@ -232,9 +232,9 @@
   });
 
   /**
-   * Testimonials slider
+   * blog slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.blog-slider', {
     speed: 600,
     loop: true,
     autoplay: {
