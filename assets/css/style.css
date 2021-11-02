@@ -398,6 +398,10 @@ section {
   padding: 0;
 }
 
+.about .profile-image{
+  border-radius: 60%;
+}
+
 .about .content ul li {
   margin-bottom: 20px;
   display: flex;
