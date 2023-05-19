@@ -1,3 +1,3 @@
 
 # Portfolio Website
-<a href="https://rithurajnambiar17.github.io/">Click here</a>
+<a href="https://rithurajnambiar17.github.io/">Portfolio Website</a>
